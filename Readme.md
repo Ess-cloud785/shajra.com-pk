@@ -1,6 +1,6 @@
 # Shajra-e-GhulamFraid
 
-# This Website Is Created By [Muhammad Ismail](https://ess-cloud785.github.io/shajra.com-pk/fazal/afzal/afzal.html) And Muhammad Ibrahim.
+# This Website Is Created By [Muhammad Ismail](https://ess-cloud785.github.io/shajra.com-pk/fazal/afzal/afzal.html) And [Muhammad Ibrahim](https://ess-cloud785.github.io/shajra.com-pk/fazal/rouf/rouf.html).
 ---
 
 # Key Features
